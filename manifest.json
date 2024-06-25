@@ -1,11 +1,12 @@
 {
-   "name": "SilentTyping",
-   "version": "1.0.0",
-   "description": "Silences your typing indicator.",
+   "name": "FakeSticker",
+   "version": "1.1.1",
+   "description": "Allows you to send stickers without Nitro",
    "authors": [
       {
-         "name": "eternal",
-         "id": "263689920210534400"
+         "name": "mafu",
+         "id": "519760564755365888"
       }
-   ]
+   ],
+   "color": "#556b2f"
 }
